@@ -1,6 +1,7 @@
 {
   "name": "My Mega Sticker Pack",
-  "author": "User",
+  "author": "vnwx",
+  "url": "https://raw.githubusercontent.com/vnwx/my-stickers/main/", 
   "stickers": [
     { "name": "son", "file": "1023-son.jpg" },
     { "name": "monkey-1", "file": "1026-monkey-1.gif" },
